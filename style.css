@@ -1,0 +1,11 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+#a{ background: ; color:#4e81d4 ; }
+#b{ background: ; color:#9d27f2 ; }
+#c{ background: ; color:#3fcc91 ; }
+#d{ background: ; color:#87a83b ; }
+#e{ background: ; color:#eb8b31 ; }
+
+.jumbotron{
+    opacity: 0.8;
+  }
